@@ -1,0 +1,10 @@
+[package]
+name = "falcon-pqc"
+version = "0.1.0"
+edition = "2024"
+authors = ["Dmitry Usakov"]
+description = "Rust implementation of Falcon post-quantum signatures; no cryptographic functionality yet"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
